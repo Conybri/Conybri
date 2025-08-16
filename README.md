@@ -40,7 +40,7 @@ const cosmicDeveloper = {
 
 ## 🎓 Cosmic Education & Certifications
 
-- 🎓 **Computer Engineering** - *In Progress* - Universidad Tecnológica de Chile
+
 - 💻 **Certified Full Stack Developer** - Generation Chile
 - 🌐 **UI/UX Design Specialist** - Advanced Digital Design
 - 🔮 **JavaScript Sorcery** - Advanced Frontend Development
